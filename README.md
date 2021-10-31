@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CTFshawnD
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning CSS-in-JS
+- 👀 I’m interested in Progresive Web Application
+- 🌱 I’m currently learning Vue2.0
 - 📫 How to reach me : chengjunsoft@outlook.com
 
 <!---
